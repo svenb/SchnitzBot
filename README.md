@@ -7,4 +7,7 @@ A Telegram bot for managing Birthdays, Reminders, Polls and Events
  3. Go the .env file and add the token
  4. run via `node server.js`
  
+ # Requires lovley coded Extensions
+    --> https://github.com/motdotla/dotenv
+    --> https://github.com/telegraf/telegraf
  
